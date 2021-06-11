@@ -1,0 +1,10 @@
+
+a) ¿ Quién inventó el sistema de control de versión Git y por qué?
+   El sistema de control de versiones Git fue diseñado por Linus Torvalds y fue pensado en la eficiencia, la confiabilidad y compatibilidad del mantenimiento de versiones de las aplicaciones cuando estas tienen un gran número de archivos de codigo fuente. Su proposito es llevar el registro de todos los cambios en archivos de computadora incluyendo coordinar el trabajo de varias personas que realizan sobre archivos compartidos en un repositorio de código.
+
+b) ¿ A quién pertenece actualmente Githgub y por qué?
+Según la teoria, Git es un software Libre distribuible bajo los terminos de la version 2 de la licencia pública general de GNU. Actualmente esta bajo la supervición de Junio Hamano, quien recibe contribuciones alrededor de 280 desarrolladores.
+
+c) ¿Hay otra forma que no sea la terminal para trabajar con Github?
+Si, en el mercado existen varias herramientas que permiten trabajar con repositorios de github como por ejemplo: bitbuket, Github Desktop, Visual Studio Code, la suite de Jetbrains, Netbeans, spring boots tools, kraken.
+Dichas herramientas en su mayoria son para desarrollo de software que contienen incluido funcionalidades para conectarse a los repositorios y admnistrarlos de forma visual.
