@@ -1,3 +1,0 @@
-Creado por Linus Torvalds en 2005 para el desarrollo del kernel de Linux.
-Actualmente pertenece a Microsoft.
-Si IDEs como Vscode. 
