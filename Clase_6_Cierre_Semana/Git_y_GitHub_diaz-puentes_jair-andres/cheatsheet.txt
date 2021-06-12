@@ -1,0 +1,11 @@
+cd permite cambiara entre carpetas
+mkdir crear un directorio
+touch crea un archivo 
+nano editor de texto
+git clone {nombreRepo}  clonar un repositorio completo a local
+git push origin {nombreRama} sube los cambios al repositorio remoto
+git init crear un repositorio de git 
+git commit -m "mensaje" salva los cambios en local 
+git pull origin {nombreRama} descarga los cambios remotos
+rm remueve archivos
+mv mueve o renombra archivos o coarpetas 
