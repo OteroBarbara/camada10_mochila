@@ -1,0 +1,10 @@
+git add . //agrega todos los archivos de la carpeta
+git status //para ver el estado
+git commit -m "mensaje de aclaración"
+git restore --staged archivo //es para ignorar un archivo.
+rm -rf .git
+git branch -M main (para cambiar el nombre si dice (Master) en vez de (main)En el repositorio principal //Rama principal local 
+git log // para salir tecleo letra "q"
+git log --oneline //para que se vea resumido 
+git checkout (codigo del commit)
+git checkout main //vuelve al 'ultimo que guard'e
