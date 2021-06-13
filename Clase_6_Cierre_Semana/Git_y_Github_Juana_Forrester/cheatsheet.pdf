@@ -1,0 +1,10 @@
+Git Branch Rama --> crear una Rama
+Git checkout rama --> cambiarse a esa rama
+Git branch -d --> elimino la rama 
+
+git clone URL --> me copio toda la repo remota en mi local
+Git add . --> agrego todos los archivos al repo local
+Git commit -m --> comiteo esa repo
+Git push origin main --> los subo al repositorio remoto
+Git pull origin main --> me bajo todos los archivos del repo remoto. 
+Git merge --> para unir las ramas
