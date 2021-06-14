@@ -1,0 +1,3 @@
+A)Fue inventado por Linus Torvalds para ser utilizado en el desarrollo del Kernel de Linux.
+B)El 4 de junio de 2018 Microsoft compró GitHub
+C)Si hay distintas formas
