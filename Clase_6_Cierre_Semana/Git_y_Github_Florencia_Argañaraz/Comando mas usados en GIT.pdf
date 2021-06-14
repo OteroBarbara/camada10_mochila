@@ -1,0 +1,20 @@
+Mkdir ----> Para crear un directorio
+touch ----> Para crear un archivo 
+mv -------> Pra renombrar un archivo o directorio, para mover los archivos o carpetas
+LS--------> para listar los archivos y directorios dentro de una carpetas
+cd -------> Para cambiar a un directorio superior
+cd .. ----> Para cambiar a un directorio inferior.
+
+REPOSITORIO LOCAL
+git init -------------> Para iniciar un repositorio LOCAL
+git add . ------------> Para subir una modif o archivo al repositorio
+git commit -m "...."--> Para guardar un commit
+
+REPOSITORIO EXTERNO
+
+Git Global user.name -----> Para conectar con un repocitorio nuevo.
+
+git remote add origin url_proyecto --->para abrir un repositorio remoto
+git remote -v para ver si tengo vinculado
+git push origin main o master () ya tengo los comnit hechos)
+

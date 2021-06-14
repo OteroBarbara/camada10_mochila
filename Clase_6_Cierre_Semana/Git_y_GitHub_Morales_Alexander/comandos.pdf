@@ -1,0 +1,11 @@
+git init: crear repositorio local
+git clone: clonar repositorio en un nuevo equipo
+git commit -m "Nombre del comit": crear un commit de los archivos agregados para subir al repositorio
+git add: darle seguimiento a los archivos creados en el respositorio local
+git remote add origin https://github.com/amorales-s/Turismo.git
+git pull: actualizar el repositorio local con el repositorio remoto
+git push: subir información del repositorio local al repositorio remoto
+git status: ver el estado de los archivos dentro del repositorio
+git branch "nombre rama": crear rama del repositorio
+git merge "nombre rama": unifiacr la rama principal con las ramas secundarias creadas
+
