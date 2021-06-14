@@ -16,4 +16,4 @@ GitHub es punto de encuentro para millones de desarrolladores, y esa es precisam
 
 c. ¿Hay otra forma que no sea la terminal para trabajar con Github?
 
-Si, se puede trabajar con Github desde la terminal, pero también desde VSC (Source Control) y desde la misma interfaz web de Github.
+Si, se puede trabajar con Github desde la terminal, pero también desde VSC (Source Control) y desde la misma interfaz web de Github.g
