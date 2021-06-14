@@ -9,4 +9,4 @@ Actualmente le pertenece a Microsoft Desde 2017.
 ¿Hay otra forma que no sea la terminal para trabajar con Github?
 Git hubo puede ser trabajado desde su pagina web, o descargando un programa de escritorio de git hub tambien.
 
-Julian Huerfano
+Julian Huerfano Hurtado.
