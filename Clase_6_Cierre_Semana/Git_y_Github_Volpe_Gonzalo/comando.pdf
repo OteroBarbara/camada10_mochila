@@ -1,0 +1,9 @@
+git init --- crea un repositorio local
+git add . --- agrega los archivos modificados
+git commit -m --- hace un comit de los cambios
+git remote add origin --- vincula el repositorio local con el repositiro remoto
+git clone --- clona el repositorio remoto
+git pull --- actualiza el repositorio local con el remoto
+git push --- sube el repositorio local al remoto
+git status --- te da el estado del git
+git branch --- crea una rama, cambia de rama y te lista las ramas
