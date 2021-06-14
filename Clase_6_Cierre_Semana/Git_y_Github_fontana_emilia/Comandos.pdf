@@ -1,0 +1,20 @@
+git init: creará un nuevo repositorio local GIT
+git clone se usa para copiar un repositorio.
+git add se usa para agregar archivos al repositorio
+git commit creará una instantánea de los cambios y la guardará en el directorio git.
+git push se usa para enviar confirmaciones locales a la rama maestra del repositorio remoto.
+git status muestra la lista de los archivos que se han cambiado junto con los archivos que están por ser preparados o confirmados.
+git remote te permite ver todos los repositorios remotos.
+git branch se usa para listar, crear o borrar ramas.
+git pull fusiona todos los cambios que se han hecho en el repositorio local con el directorio de trabajo local.
+git merge se usa para fusionar una rama con otra rama activa:
+git log muestra el historial de nuestro proyecto
+mkdir crea una carpeta
+touch crea un archivo
+cd sube de nivel las carpetas o ir a la carpeta que deseemos
+git checkout moverse de una rapa a la otra
+git branch -D elimina la rama que deseemos
+git remote add agrega un rapositorio remoto
+
+
+
