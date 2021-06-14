@@ -1,0 +1,30 @@
+- Crear un directorio: mkdir "nombre del directorio"
+- Crear un archivo: touch "nombre del archivo"
+- Volver a carpetas anterior: cd..
+- Moverse entre directorio: cd nombre del directorio
+- Crear un repositorio local: 
+git init
+git config user.name "usuario real"
+git config user.mail "mail real"
+- Armar paquete
+add . (todos) o add nombre del archivo o carpetas
+git status para corroborar
+git commit -m #nombre del commit"
+- Subir paquete
+git push origin main o nombre de la rama
+git log --oneline
+- Descargar reposito remoto a local por primera vez
+git clone "link de repo remoto"
+- Descargar repo cuando has descargado
+git pull origin main o nombre de la rama
+- Borrar archivo
+rm nombre del archivo
+- Renombrar archivo: 
+rm nombre del archivo mal nombre de archivo nuevo
+- Eliminar carpeta vacia
+rmdir nombre de carpeta
+- Copiar una rama a la rama maestra
+(pararse dentro de la rama maestra): git checkout origin main
+git merge nombre de la rama
+git log --oneline (verificar)
+
