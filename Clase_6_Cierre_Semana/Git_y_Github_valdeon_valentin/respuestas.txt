@@ -1,0 +1,13 @@
+Fue diseñado por  Linus Torvalds, pensando en la eficiencia, la confiabilidad y compatibilidad del 
+mantenimiento de versiones de aplicaciones cuando estas tienen un gran número de archivos de código fuente. 
+Su propósito es llevar registro de los cambios en archivos de computadora incluyendo coordinar el trabajo que 
+varias personas realizan sobre archivos compartidos en un repositorio de código.
+
+<<<<<<< HEAD:Clase_6_Cierre_Semana/respuestas
+¿A quién pertenece actualmente Github y por qué? 
+¿Hay otra forma que no sea la terminal para trabajar con Github? si hay otra forma gi
+=======
+El dueño hoy en dia es Microsoft
+
+Y ademas de la terminal se puede acceder desde la inteface grafica que ofrece github 
+>>>>>>> 257a1e9659b641245ce81adc2e584905b528bb66:Clase_6_Cierre_Semana/Git_y_Github_valdeon_valentin/respuestas.txt
